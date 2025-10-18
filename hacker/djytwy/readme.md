@@ -12,13 +12,13 @@
 
 ## Member
 - [djytwy](https://github.com/djytwy)
-> 自我介绍&技术栈: 多年互联网开发经验，会 Python,nextjs,cocos 小游戏,nodejs,在学习 move 中。
+> 自我介绍&技术栈: 多年互联网开发经验，会 Python,前端,cocos 小游戏,nodejs,在学习 move 中。
 
 ## 参赛信息
 - [Sui_jump_jump 合约部分](https://github.com/djytwy/sui-jump-jump)
 
 - [PPT]()
-- [在线地址]()
+- [在线地址](https://sui-jump-jump.vercel.app/)
 
 ## 其他附加说明
 >> 主要的玩法:
@@ -27,4 +27,4 @@
     1):会存入奖池，当天的某一个时间点给排行榜中排名高的玩家分钱。
     2):在游戏 game over 的时候给玩家分配一个随机的小于玩家付门票的 bouns。
 其他:
-    游戏中有商店，玩家可以通过商店购买皮肤。
+    游戏中有商店，玩家可以通过商店使用 USDB 购买皮肤。
